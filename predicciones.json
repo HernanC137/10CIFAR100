@@ -1,0 +1,46 @@
+[
+    {
+        "filename": "test_image.png",
+        "predicted_class": "mountain"
+    },
+    {
+        "filename": "test_image.png",
+        "predicted_class": "aquarium_fish"
+    },
+    {
+        "filename": "test_image.png",
+        "predicted_class": "orchid"
+    },
+    {
+        "filename": "test_image.png",
+        "predicted_class": "keyboard"
+    },
+    {
+        "filename": "test_image.png",
+        "predicted_class": "lamp"
+    },
+    {
+        "filename": "test_image.png",
+        "predicted_class": "lamp"
+    },
+    {
+        "filename": "test_image.png",
+        "predicted_class": "orchid"
+    },
+    {
+        "filename": "test_image.png",
+        "predicted_class": "aquarium_fish"
+    },
+    {
+        "filename": "test_image.png",
+        "predicted_class": "woman"
+    },
+    {
+        "filename": "test_image.png",
+        "predicted_class": "sea"
+    },
+    {
+        "filename": "test_image.png",
+        "predicted_class": "apple"
+    }
+]
